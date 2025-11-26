@@ -28,6 +28,9 @@
                 <td><?= $row['email']; ?></td>
                 <td><?= $row['phone']; ?></td>
                 <td><?= $row['course']; ?></td>
+                <td><?=$row['Year'];?></td>
+                <td><?=$row['About you'];?></td>
+
             </tr>
         <?php } ?>
 

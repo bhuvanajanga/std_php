@@ -17,7 +17,8 @@
         <input type="email" name="email" placeholder="Email Address" required>
         <input type="text" name="phone" placeholder="Phone Number" required>
         <input type="text" name="course" placeholder="Course" required>
-        
+        <input type="number"name="year"placeholder="Year" required>
+        <input type="text"name="About you"placeholder="About You"required>
         <button type="submit" name="submit">Add Student</button>
     </form>
 
